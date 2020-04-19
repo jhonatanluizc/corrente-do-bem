@@ -19,13 +19,13 @@
         </div>
 
         <div class="formbox">
-            <form action="" method="POST">
-                <div class="nomeform"><label>Nome Completo</lable><input></input> </div>
-                <div class="datanascform"><label>Data de Nascimento</lable><input></input> </div>
-                <div class="cpfform"><label>CPF</lable><input></input> </div>
-                <div class="nomemaeform"><label>Nome da Mãe</lable><input></input> </div>
-                <div class="telefoneform"><label>Telefone</lable><input></input> </div>
-                <div class="enderecoform"><label>Endereço</lable><input></input> </div>
+            <form action="controller/beneficiario.php?op=cadastro" method="POST">
+                <div class="nomeform"><label>Nome Completo</lable><input name="nome"></input> </div>
+                <div class="datanascform"><label>Data de Nascimento</lable><input name="datanascimento"></input> </div>
+                <div class="cpfform"><label>CPF</lable><input name="cpf"></input> </div>
+                <div class="nomemaeform"><label>Nome da Mãe</lable><input name="nomemae"></input> </div>
+                <div class="telefoneform"><label>Telefone</lable><input name="telefone"></input> </div>
+                <div class="enderecoform"><label>Endereço</lable><input name="endereco"></input> </div>
                 <br>
                 <input class="botaocad" type="submit" value="Cadastrar">
             </form>

@@ -19,12 +19,12 @@
         </div>
 
         <div class="formbox">
-            <form action="" method="POST">
-                <div class="nomeform"><label>Nome Completo</lable><input></input> </div>
-                <div class="datanascform"><label>Data de Doação</lable><input placeholder="00/00/0000"></input> </div>
-                <div class="nomemaeform"><label>Descrição dos Itens</lable><textarea></textarea> </div>
-                <div class="telefoneform"><label>Telefone</lable><input></input> </div>
-                <div class="enderecoform"><label>Endereço</lable><input></input> </div>
+            <form action="controller/doador.php?op=cadastro" method="POST">
+                <div class="nomeform"><label>Nome Completo</lable><input name="nome"></input> </div>
+                <div class="datanascform"><label>Data de Doação</lable><input name="data" placeholder="00/00/0000"></input> </div>
+                <div class="nomemaeform"><label>Descrição dos Itens</lable><textarea name="descricaoitens"></textarea> </div>
+                <div class="telefoneform"><label>Telefone</lable><input name="telefone"></input> </div>
+                <div class="enderecoform"><label>Endereço</lable><input name="endereco"></input> </div>
                 <br>
                 <input class="botaocad" type="submit" value="Cadastrar">
             </form>

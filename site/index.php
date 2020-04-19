@@ -16,7 +16,7 @@
     .masthead {
         height: 100vh;
         min-height: 500px;
-        background-image: url('src/imagens/solidariedade.png');
+        background-image: url('https://raw.githubusercontent.com/SotnDragon/images/master/solidariedade.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -37,21 +37,21 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12 text-center">
                     <div class="row">
-                        <div class="col-8 text">
+                        <div class="col-md-8 col-sm-12 text">
                             <h1 class="font-weight-light">Olá, bem-vindo(a) ao</h1>
                             <h1 class="font-weight-light">Programa - Corrente Do Bem</h1>
                             <p class="text-justify">
                                 A gentiliza é um ato de amor ao próximo e ao Criador. Uma linda estrada de doação e carinho. Não é difícil ser gentil, é uma entrega constante e a essência para receber bons frutos, além desse retorno, ela gera humildade e gratidão. Quem pratica esse belo ato, colhe sorrisos, respeito, amor e infinitas lembranças de gestos inesperados de solidariedade. É a extensão do amor de Deus e um afago na alma. Gentileza sua linda seja sempre bem vinda!
                             </p>
                         </div>
-                        <div class="col-4">
+                        <div class="col-md-4 col-sm-12">
                             <div class="mt-5">
-                                <a href="form-doacao.php">
+                                <a href="doacao.php">
                                     <button class="btn btn-lg btn-success btn-block">Seja um doador</button>
                                 </a>
                             </div>
                             <div class="mt-5">
-                                <a href="form-beneficiario.php">
+                                <a href="beneficiario.php">
                                     <button class="btn btn-lg btn-primary btn-block">Realizar Solicitação</button>
                                 </a>
                             </div>
@@ -66,13 +66,6 @@
         </div>
     </header>
 
-    <!-- Page Content -->
-    <section class="py-5">
-        <div class="container">
-            <h2 class="font-weight-light">Saiba mais</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ab nulla dolorum autem nisi officiis blanditiis voluptatem hic, assumenda aspernatur facere ipsam nemo ratione cumque magnam enim fugiat reprehenderit expedita.</p>
-        </div>
-    </section>
 
 </body>
 

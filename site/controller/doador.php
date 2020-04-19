@@ -18,7 +18,7 @@
         ?>
             <script>
                     alert("Sua doação foi cadastrada, em breve entraremos em contato");
-                    javascript: history.go(-1);
+                    window.location.href = "../index.php"; 
             </script>
         <?php
     }

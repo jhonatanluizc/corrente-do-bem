@@ -19,7 +19,7 @@
        ?>
             <script>
                     alert("Sua requisição foi enviada, em breve entraremos em contato");
-                    javascript: history.go(-1);
+                    window.location.href = "../index.php"; 
             </script>
         <?php
     }

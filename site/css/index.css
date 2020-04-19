@@ -1,0 +1,59 @@
+body {
+    font-family: "Lato", sans-serif;
+    background-image: url("src/indexbackground.jpg");
+  }
+  
+  .sidenav {
+    height: 100%;
+    width: 220px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+.BackGroundPost {
+    
+    position: absolute;
+    left: 250px;
+    top: 300px;
+    display:flex;
+    flex-wrap:wrap;
+    width:1250px;
+    height:400px;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.imagespost{
+    bottom: 50px;
+    position: absolute;
+    left: 10px;
+    width:500px;
+    height:300px;
+}

@@ -45,28 +45,21 @@
                             </p>
                         </div>
                         <div class="col-md-4 col-sm-12">
-                            <div class="mt-5">
-                                <a href="doacao.php">
-                                    <button class="btn btn-lg btn-success btn-block">Seja um doador</button>
-                                </a>
+                            <div class="mt-5">                            
+                                    <button onclick="window.location.href = 'doacao.php';" class="btn btn-lg btn-success btn-block">Seja um doador</button>                                
                             </div>
                             <div class="mt-5">
-                                <a href="beneficiario.php">
-                                    <button class="btn btn-lg btn-primary btn-block">Realizar Solicitação</button>
-                                </a>
+                                <button onclick="window.location.href = 'beneficiario.php';" class="btn btn-lg btn-primary btn-block">Realizar Solicitação</button>
                             </div>
-
                         </div>
                     </div>
-
-
 
                 </div>
             </div>
         </div>
     </header>
 
-
+    <br>
 </body>
 
 </html>

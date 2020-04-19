@@ -94,24 +94,36 @@
     <div class="container">
         <div class="col-12">
             <div class="row">
+
                 <div class="col-md-7 col-sm-12">
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/YKD8EJQXoXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-5 col-sm-12 ">
                     <p class="text-justify">
-                        Somos uma equipe formada por 6 integrantes que visam o melhor estado da sociedade, respeitando sempre a ética e a vida. Este projeto tem como intuito promover a solidariedade e empatia para com o próximo visando construir uma sociedade mais humana e atenciosa com os mais necessitados.
+                        Mesmo sabendo do sentimento bom que uma doação deixa nos corações de um indivíduo, Doação faz bem ao coração!
+                        Doar é se dedicar a uma causa ou a alguém, e não importa se esse alguém for uma ou várias pessoas.
+                        Por isso convidamos você a fazer uma doação. Neste grande momento de crise, pessoas idosas que estão fragilizadas
+                        com a situação ou até mesmo pessoas que estão passando por dificuldades devido a quarentena. Entre em contato conosco
+                        se tiver algum alimento que possa doar. E se você estiver passando por dificuldades entre em contato tambem! ouviremos sua
+                        história e enviaremos ajuda o mais breve possivel.
                     </p>
-                    <p>
-                        Quer juntar-se a nossa equipe?
-                    </p>
-                    <p>
-                        Envie-nos uma mensagem apresentando-se para correntedobem.sont@gmail.com
-                    </p>
-
 
                 </div>
             </div>
         </div>
+    </div>
+    <br>
+    <hr>
+    <div class="container">
+        <p class="text-justify">
+            Somos uma equipe formada por 6 integrantes que visam o melhor estado da sociedade, respeitando sempre a ética e a vida. Este projeto tem como intuito promover a solidariedade e empatia para com o próximo visando construir uma sociedade mais humana e atenciosa com os mais necessitados.
+        </p>
+        <p class="text-center">
+            Quer juntar-se a nossa equipe?
+        </p>
+        <p class="text-center">
+            Envie-nos uma mensagem apresentando-se para correntedobem.sont@gmail.com
+        </p>
     </div>
 
     <br>

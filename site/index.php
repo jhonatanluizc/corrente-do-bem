@@ -6,15 +6,18 @@
     </head>
     <body>
         <div class="sidenav">
-            <a href="#about">Desejar Doar?</a>
+            <a href="index.php">Homepage</a>
             <hr>
-            <a href="#services">Contato</a>
+            <a href="form-cad-doa.php">Desejar Doar?</a>
+            <hr>
+            <a href="form-cad-ben.php">Precisa de ajuda?</a>
             <hr>
             <a href="#clients">Feedback</a>
             <hr>
             <a href="#contact">Sobre Nós</a>
             <hr>
         </div>
+
         <div class="Background">
 
 

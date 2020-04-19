@@ -2,7 +2,7 @@
 <html>
     <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="src/index.css">
     </head>
     <body>
         <div class="sidenav">

@@ -1,6 +1,8 @@
 body {
     font-family: "Lato", sans-serif;
-    background-image: url("src/indexbackground.jpg");
+    background-image: url('');
+    background-attachment: fixed;
+    background-size: cover;
   }
   
   .sidenav {
